@@ -7,4 +7,9 @@ public class TestClass {
         int c = a + b;
         return c;
     }
+
+    public static int sum2(int a, int b) {
+        int c = a + b;
+        return c;
+    }
 }
