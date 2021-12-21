@@ -6,4 +6,6 @@ public interface TestInterface {
     void newFeature1();
 
     void newFeature2();
+
+    void newFeature3();
 }
