@@ -4,4 +4,6 @@ public interface TestInterface {
     void port(int a);
 
     void newFeature1();
+
+    void newFeature2();
 }
